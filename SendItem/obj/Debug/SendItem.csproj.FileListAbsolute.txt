@@ -1,0 +1,7 @@
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\SendItem.dll
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\SendItem.pdb
+C:\Ultima\Utility Src\UoFiddler\SendItem\obj\Debug\FiddlerPlugin.Option.resources
+C:\Ultima\Utility Src\UoFiddler\SendItem\obj\Debug\SendItem.dll
+C:\Ultima\Utility Src\UoFiddler\SendItem\obj\Debug\SendItem.pdb
+C:\Ultima\Utility Src\UoFiddler\SendItem\obj\Debug\SendItem.csprojResolveAssemblyReference.cache
+C:\Ultima\Utility Src\UoFiddler\SendItem\obj\Debug\SendItem.csproj.GenerateResource.Cache

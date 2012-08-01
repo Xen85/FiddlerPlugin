@@ -1,0 +1,14 @@
+<Modules>
+  <Module PersistentId="E08CFBE4-E013-44EE-8829-426D05BC083F" ModuleId="Ultima" />
+  <Module PersistentId="ACDF6427-85CF-4A38-AD97-75103EE8026E" ModuleId="MultiEditor" />
+  <Module PersistentId="BBF3C337-3D0E-484D-8C59-BA8296C5897C" ModuleId="Controls" />
+  <Module PersistentId="693F2BBC-7856-4751-9FAD-B06FABAAEE53" ModuleId="UoFiddler" />
+  <Module PersistentId="43393FEB-36CF-41B7-8ADA-A581D498FF40" ModuleId="MassImportPlugin" />
+  <Module PersistentId="E22921FF-9EC8-4DEB-A4C1-CE67315F465E" ModuleId="FiddlerPlugin" />
+  <Module PersistentId="AF2D75B8-C71A-4582-AADF-B8CD9789427C" ModuleId="SendItem" />
+  <Module PersistentId="1F84EDD1-C407-410A-BD9C-36E846BFA675" ModuleId="ComparePlugin" />
+  <Module PersistentId="B52C11BF-8D10-4472-8FA0-92B25C8D5A25" ModuleId="TilesInfo" />
+  <Module PersistentId="39B1EE29-C707-4F66-BD65-055E44D96CCF" ModuleId="MapMakerFiddler" />
+  <Module PersistentId="2F25DC15-7C8B-4C57-8C31-E33DEE517E7B" ModuleId="OpenUO.MapMaker" />
+  <Module PersistentId="4FC1D5F4-661F-48DC-B397-4CDCB7D61ABE" ModuleId="MiscUtil" />
+</Modules>

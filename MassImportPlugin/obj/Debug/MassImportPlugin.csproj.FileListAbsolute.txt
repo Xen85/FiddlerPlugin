@@ -1,0 +1,7 @@
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\MassImport.dll
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\MassImport.pdb
+C:\Ultima\Utility Src\UoFiddler\MassImportPlugin\obj\Debug\MassImport.MassImport.resources
+C:\Ultima\Utility Src\UoFiddler\MassImportPlugin\obj\Debug\MassImport.dll
+C:\Ultima\Utility Src\UoFiddler\MassImportPlugin\obj\Debug\MassImport.pdb
+C:\Ultima\Utility Src\UoFiddler\MassImportPlugin\obj\Debug\MassImportPlugin.csproj.GenerateResource.Cache
+C:\Ultima\Utility Src\UoFiddler\MassImportPlugin\obj\Debug\MassImportPlugin.csprojResolveAssemblyReference.cache

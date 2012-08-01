@@ -1,0 +1,8 @@
+C:\Ultima\Utility Src\UOFiddler_WPF\MiscUtil\bin\Debug\MiscUtil.dll
+C:\Ultima\Utility Src\UOFiddler_WPF\MiscUtil\bin\Debug\MiscUtil.pdb
+C:\Ultima\Utility Src\UOFiddler_WPF\MiscUtil\obj\Debug\MiscUtil.dll
+C:\Ultima\Utility Src\UOFiddler_WPF\MiscUtil\obj\Debug\MiscUtil.pdb
+C:\Ultima\Utility Src\UoFiddler\MapMakerFiddler\MiscUtil\obj\Debug\MiscUtil.dll
+C:\Ultima\Utility Src\UoFiddler\MapMakerFiddler\MiscUtil\bin\Debug\MiscUtil.dll
+C:\Ultima\Utility Src\UoFiddler\MapMakerFiddler\MiscUtil\bin\Debug\MiscUtil.pdb
+C:\Ultima\Utility Src\UoFiddler\MapMakerFiddler\MiscUtil\obj\Debug\MiscUtil.pdb

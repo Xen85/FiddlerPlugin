@@ -1,0 +1,4 @@
+C:\Ultima\Utility Src\UoFiddler\Ultima\bin\Debug\Ultima.dll
+C:\Ultima\Utility Src\UoFiddler\Ultima\bin\Debug\Ultima.pdb
+C:\Ultima\Utility Src\UoFiddler\Ultima\obj\Debug\Ultima.dll
+C:\Ultima\Utility Src\UoFiddler\Ultima\obj\Debug\Ultima.pdb

@@ -1,0 +1,5 @@
+C:\Ultima\Utility Src\UoFiddler\Ultima\bin\x86\Debug\Ultima.dll
+C:\Ultima\Utility Src\UoFiddler\Ultima\bin\x86\Debug\Ultima.pdb
+C:\Ultima\Utility Src\UoFiddler\Ultima\obj\x86\Debug\Ultima.csprojResolveAssemblyReference.cache
+C:\Ultima\Utility Src\UoFiddler\Ultima\obj\x86\Debug\Ultima.dll
+C:\Ultima\Utility Src\UoFiddler\Ultima\obj\x86\Debug\Ultima.pdb

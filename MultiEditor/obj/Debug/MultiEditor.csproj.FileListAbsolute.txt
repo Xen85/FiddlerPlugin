@@ -1,0 +1,9 @@
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\multieditor.xml
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\MultiEditor.dll
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\MultiEditor.pdb
+C:\Ultima\Utility Src\UoFiddler\MultiEditor\obj\Debug\MultiEditor.MultiEditor.resources
+C:\Ultima\Utility Src\UoFiddler\MultiEditor\obj\Debug\MultiEditor.Properties.Resources.resources
+C:\Ultima\Utility Src\UoFiddler\MultiEditor\obj\Debug\MultiEditor.dll
+C:\Ultima\Utility Src\UoFiddler\MultiEditor\obj\Debug\MultiEditor.pdb
+C:\Ultima\Utility Src\UoFiddler\MultiEditor\obj\Debug\MultiEditor.csproj.GenerateResource.Cache
+C:\Ultima\Utility Src\UoFiddler\MultiEditor\obj\Debug\MultiEditor.csprojResolveAssemblyReference.cache

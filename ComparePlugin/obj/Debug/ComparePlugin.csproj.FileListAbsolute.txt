@@ -1,0 +1,14 @@
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\ComparePlugin.dll
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\ComparePlugin.pdb
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.CompareCliLoc.resources
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.CompareGump.resources
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.CompareHues.resources
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.CompareItem.resources
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.CompareLand.resources
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.CompareMap.resources
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.CompareTexture.resources
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.Properties.Resources.resources
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.dll
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.pdb
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.csproj.GenerateResource.Cache
+C:\Ultima\Utility Src\UoFiddler\ComparePlugin\obj\Debug\ComparePlugin.csprojResolveAssemblyReference.cache

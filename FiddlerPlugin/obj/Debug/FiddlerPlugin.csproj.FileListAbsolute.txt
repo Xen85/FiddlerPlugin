@@ -1,0 +1,7 @@
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\TestPlugin.dll
+C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\TestPlugin.pdb
+C:\Ultima\Utility Src\UoFiddler\FiddlerPlugin\obj\Debug\FiddlerPlugin.UserControl1.resources
+C:\Ultima\Utility Src\UoFiddler\FiddlerPlugin\obj\Debug\TestPlugin.dll
+C:\Ultima\Utility Src\UoFiddler\FiddlerPlugin\obj\Debug\TestPlugin.pdb
+C:\Ultima\Utility Src\UoFiddler\FiddlerPlugin\obj\Debug\FiddlerPlugin.csproj.GenerateResource.Cache
+C:\Ultima\Utility Src\UoFiddler\FiddlerPlugin\obj\Debug\FiddlerPlugin.csprojResolveAssemblyReference.cache

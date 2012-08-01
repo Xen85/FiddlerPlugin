@@ -1,0 +1,4 @@
+C:\Ultima\Utility Src\UOFiddler_WPF\MiscUtil\bin\Release\MiscUtil.dll
+C:\Ultima\Utility Src\UOFiddler_WPF\MiscUtil\bin\Release\MiscUtil.pdb
+C:\Ultima\Utility Src\UOFiddler_WPF\MiscUtil\obj\Release\MiscUtil.dll
+C:\Ultima\Utility Src\UOFiddler_WPF\MiscUtil\obj\Release\MiscUtil.pdb
