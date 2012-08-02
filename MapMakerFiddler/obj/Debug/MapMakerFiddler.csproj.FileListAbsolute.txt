@@ -13,6 +13,5 @@ C:\Ultima\Utility Src\UoFiddler\MapMakerFiddler\obj\Debug\MapMakerFiddler.dll
 C:\Ultima\Utility Src\UoFiddler\MapMakerFiddler\obj\Debug\MapMakerFiddler.pdb
 C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\MapMakerFiddler.dll
 C:\Ultima\Utility Src\UoFiddler\UoFiddler\bin\Debug\plugins\MapMakerFiddler.pdb
-C:\Ultima\Utility Src\UoFiddler\MapMakerFiddler\obj\Debug\MapMakerFiddler.MapMakerForm.resources
 C:\Ultima\Utility Src\UoFiddler\MapMakerFiddler\obj\Debug\MapMakerFiddler.csproj.GenerateResource.Cache
 C:\Ultima\Utility Src\UoFiddler\MapMakerFiddler\obj\Debug\MapMakerFiddler.MapMakerControl.resources

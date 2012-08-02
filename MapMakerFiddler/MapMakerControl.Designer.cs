@@ -49,24 +49,10 @@
             this.TabPageColorArea = new System.Windows.Forms.TabPage();
             this.ButtonACO = new System.Windows.Forms.Button();
             this.dataGridColorCoast = new System.Windows.Forms.DataGridView();
-            this.ColumndataGridColorCoastName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumndataGridColorCoastColor = new System.Windows.Forms.DataGridViewImageColumn();
-            this.ColumndataGridColorCoastMinZ = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumndataGridColorCoastMaxZ = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridColorArea = new System.Windows.Forms.DataGridView();
-            this.ColumndataGridColorAreaName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumndataGridColorAreaColor = new System.Windows.Forms.DataGridViewImageColumn();
-            this.ColumndataGridColorAreaLow = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumndataGridColorAreaHight = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TabColorMountains = new System.Windows.Forms.TabPage();
             this.dataGridMountainsCircles = new System.Windows.Forms.DataGridView();
-            this.ColumnMinZ = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumnMaxZ = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridMountains = new System.Windows.Forms.DataGridView();
-            this.ColumndataGridMountainsName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumndataGridMountainsColor = new System.Windows.Forms.DataGridViewImageColumn();
-            this.ColumndataGridMountainsLow = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumndataGridMountainsHight = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TabItems = new System.Windows.Forms.TabPage();
             this.treeViewItems = new System.Windows.Forms.TreeView();
             this.TabItemsCoast = new System.Windows.Forms.TabPage();
@@ -74,18 +60,13 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.pictureBoxItemsCoast = new System.Windows.Forms.PictureBox();
             this.DataGridItemsView = new System.Windows.Forms.DataGridView();
-            this.ColumnDataGridItemsViewId = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DataGridItemsCoastSelector = new System.Windows.Forms.DataGridView();
-            this.ColumnItemsCoastSelectorName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumnItemsSelectorColorFrom = new System.Windows.Forms.DataGridViewImageColumn();
-            this.ColumnItemsSelectorColorTo = new System.Windows.Forms.DataGridViewImageColumn();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.TabItemsSmooth = new System.Windows.Forms.TabPage();
             this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.comboBox5 = new System.Windows.Forms.ComboBox();
             this.PictureBoxItemsSmooth = new System.Windows.Forms.PictureBox();
             this.dataGridItemsSmoothItems = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridSmoothItems = new System.Windows.Forms.DataGridView();
             this.ColumndataGridSmoothItemsName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColumndataGridSmoothItemsColorFrom = new System.Windows.Forms.DataGridViewImageColumn();
@@ -94,7 +75,6 @@
             this.TabTextures = new System.Windows.Forms.TabPage();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.dataGridTextureIds = new System.Windows.Forms.DataGridView();
-            this.ColumndataGridTextureIdsId = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridTexturesList = new System.Windows.Forms.DataGridView();
             this.ColumndataGridTexturesListName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColumndataGridTexturesListId = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -103,21 +83,37 @@
             this.comboBox8 = new System.Windows.Forms.ComboBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridTextureSmooth = new System.Windows.Forms.DataGridView();
             this.comboBox9 = new System.Windows.Forms.ComboBox();
             this.TabTextureCliff = new System.Windows.Forms.TabPage();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.dataGridView3 = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridCliffsList = new System.Windows.Forms.DataGridView();
             this.comboBox10 = new System.Windows.Forms.ComboBox();
+            this.buttonScriptDirectory = new System.Windows.Forms.Button();
+            this.buttonBinFile = new System.Windows.Forms.Button();
+            this.buttonCreateMap = new System.Windows.Forms.Button();
+            this.ColumndataGridColorAreaName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridColorAreaColor = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridColorAreaLow = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridColorAreaHight = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridMountainsName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridMountainsColor = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridMountainsLow = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridMountainsHight = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColumndataGridCliffsListName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumndataGridCliffsListColorFrom = new System.Windows.Forms.DataGridViewImageColumn();
-            this.ColumndataGridCliffsListColorTo = new System.Windows.Forms.DataGridViewImageColumn();
+            this.ColumndataGridCliffsListColorFrom = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridCliffsListColorTo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColumndataGridTextureSmoothName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColumndataGridTextureSmoothColorFrom = new System.Windows.Forms.DataGridViewImageColumn();
-            this.ColumndataGridTextureSmoothColorTo = new System.Windows.Forms.DataGridViewImageColumn();
+            this.ColumndataGridTextureSmoothColorFrom = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridTextureSmoothColorTo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumnItemsCoastSelectorName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumnItemsSelectorColorFrom = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumnItemsSelectorColorTo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridColorCoastName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridColorCoastColor = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridColorCoastMinZ = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumndataGridColorCoastMaxZ = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TabControlDataHandler.SuspendLayout();
             this.TabPageColorArea.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridColorCoast)).BeginInit();
@@ -165,6 +161,7 @@
             this.TabControlDataHandler.SelectedIndex = 0;
             this.TabControlDataHandler.Size = new System.Drawing.Size(1009, 539);
             this.TabControlDataHandler.TabIndex = 2;
+            this.TabControlDataHandler.SizeChanged += new System.EventHandler(this.TabControlDataHandler_SizeChanged);
             // 
             // TabPageColorArea
             // 
@@ -215,38 +212,11 @@
             this.dataGridColorCoast.Size = new System.Drawing.Size(400, 500);
             this.dataGridColorCoast.TabIndex = 2;
             // 
-            // ColumndataGridColorCoastName
-            // 
-            this.ColumndataGridColorCoastName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.ColumndataGridColorCoastName.HeaderText = "Name";
-            this.ColumndataGridColorCoastName.Name = "ColumndataGridColorCoastName";
-            this.ColumndataGridColorCoastName.Width = 76;
-            // 
-            // ColumndataGridColorCoastColor
-            // 
-            this.ColumndataGridColorCoastColor.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.ColumndataGridColorCoastColor.HeaderText = "Color";
-            this.ColumndataGridColorCoastColor.Name = "ColumndataGridColorCoastColor";
-            this.ColumndataGridColorCoastColor.ReadOnly = true;
-            this.ColumndataGridColorCoastColor.Width = 52;
-            // 
-            // ColumndataGridColorCoastMinZ
-            // 
-            this.ColumndataGridColorCoastMinZ.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.ColumndataGridColorCoastMinZ.HeaderText = "Min Z";
-            this.ColumndataGridColorCoastMinZ.Name = "ColumndataGridColorCoastMinZ";
-            this.ColumndataGridColorCoastMinZ.Width = 73;
-            // 
-            // ColumndataGridColorCoastMaxZ
-            // 
-            this.ColumndataGridColorCoastMaxZ.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.ColumndataGridColorCoastMaxZ.HeaderText = "Max Z";
-            this.ColumndataGridColorCoastMaxZ.Name = "ColumndataGridColorCoastMaxZ";
-            this.ColumndataGridColorCoastMaxZ.Width = 77;
-            // 
             // dataGridColorArea
             // 
             this.dataGridColorArea.AllowUserToOrderColumns = true;
+            this.dataGridColorArea.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataGridColorArea.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.Disable;
             this.dataGridColorArea.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridColorArea.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.ColumndataGridColorAreaName,
@@ -254,6 +224,8 @@
             this.ColumndataGridColorAreaLow,
             this.ColumndataGridColorAreaHight});
             this.dataGridColorArea.EditMode = System.Windows.Forms.DataGridViewEditMode.EditOnEnter;
+            this.dataGridColorArea.GridColor = System.Drawing.SystemColors.ActiveBorder;
+            this.dataGridColorArea.ImeMode = System.Windows.Forms.ImeMode.Disable;
             this.dataGridColorArea.Location = new System.Drawing.Point(3, 3);
             this.dataGridColorArea.MultiSelect = false;
             this.dataGridColorArea.Name = "dataGridColorArea";
@@ -266,37 +238,10 @@
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black;
             this.dataGridColorArea.RowsDefaultCellStyle = dataGridViewCellStyle2;
             this.dataGridColorArea.RowTemplate.Height = 28;
+            this.dataGridColorArea.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridColorArea.Size = new System.Drawing.Size(400, 500);
-            this.dataGridColorArea.TabIndex = 0;
-            // 
-            // ColumndataGridColorAreaName
-            // 
-            this.ColumndataGridColorAreaName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.ColumndataGridColorAreaName.HeaderText = "Name";
-            this.ColumndataGridColorAreaName.Name = "ColumndataGridColorAreaName";
-            this.ColumndataGridColorAreaName.Width = 76;
-            // 
-            // ColumndataGridColorAreaColor
-            // 
-            this.ColumndataGridColorAreaColor.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.ColumndataGridColorAreaColor.HeaderText = "Color";
-            this.ColumndataGridColorAreaColor.Name = "ColumndataGridColorAreaColor";
-            this.ColumndataGridColorAreaColor.ReadOnly = true;
-            this.ColumndataGridColorAreaColor.Width = 52;
-            // 
-            // ColumndataGridColorAreaLow
-            // 
-            this.ColumndataGridColorAreaLow.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.ColumndataGridColorAreaLow.HeaderText = "Min Z";
-            this.ColumndataGridColorAreaLow.Name = "ColumndataGridColorAreaLow";
-            this.ColumndataGridColorAreaLow.Width = 73;
-            // 
-            // ColumndataGridColorAreaHight
-            // 
-            this.ColumndataGridColorAreaHight.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.ColumndataGridColorAreaHight.HeaderText = "Max Z";
-            this.ColumndataGridColorAreaHight.Name = "ColumndataGridColorAreaHight";
-            this.ColumndataGridColorAreaHight.Width = 77;
+            this.dataGridColorArea.TabIndex = 1;
+            this.dataGridColorArea.TabStop = false;
             // 
             // TabColorMountains
             // 
@@ -315,9 +260,6 @@
             this.dataGridMountainsCircles.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
             this.dataGridMountainsCircles.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dataGridMountainsCircles.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridMountainsCircles.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.ColumnMinZ,
-            this.ColumnMaxZ});
             this.dataGridMountainsCircles.Location = new System.Drawing.Point(695, 3);
             this.dataGridMountainsCircles.MultiSelect = false;
             this.dataGridMountainsCircles.Name = "dataGridMountainsCircles";
@@ -329,18 +271,6 @@
             this.dataGridMountainsCircles.RowTemplate.Height = 28;
             this.dataGridMountainsCircles.Size = new System.Drawing.Size(300, 400);
             this.dataGridMountainsCircles.TabIndex = 1;
-            // 
-            // ColumnMinZ
-            // 
-            this.ColumnMinZ.HeaderText = "Min Z";
-            this.ColumnMinZ.Name = "ColumnMinZ";
-            this.ColumnMinZ.Width = 73;
-            // 
-            // ColumnMaxZ
-            // 
-            this.ColumnMaxZ.HeaderText = "Max Z";
-            this.ColumnMaxZ.Name = "ColumnMaxZ";
-            this.ColumnMaxZ.Width = 77;
             // 
             // dataGridMountains
             // 
@@ -364,26 +294,6 @@
             this.dataGridMountains.RowTemplate.Height = 28;
             this.dataGridMountains.Size = new System.Drawing.Size(500, 400);
             this.dataGridMountains.TabIndex = 0;
-            // 
-            // ColumndataGridMountainsName
-            // 
-            this.ColumndataGridMountainsName.HeaderText = "Name";
-            this.ColumndataGridMountainsName.Name = "ColumndataGridMountainsName";
-            // 
-            // ColumndataGridMountainsColor
-            // 
-            this.ColumndataGridMountainsColor.HeaderText = "Color";
-            this.ColumndataGridMountainsColor.Name = "ColumndataGridMountainsColor";
-            // 
-            // ColumndataGridMountainsLow
-            // 
-            this.ColumndataGridMountainsLow.HeaderText = "Min Z";
-            this.ColumndataGridMountainsLow.Name = "ColumndataGridMountainsLow";
-            // 
-            // ColumndataGridMountainsHight
-            // 
-            this.ColumndataGridMountainsHight.HeaderText = "Max Z";
-            this.ColumndataGridMountainsHight.Name = "ColumndataGridMountainsHight";
             // 
             // TabItems
             // 
@@ -459,8 +369,6 @@
             // DataGridItemsView
             // 
             this.DataGridItemsView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DataGridItemsView.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.ColumnDataGridItemsViewId});
             this.DataGridItemsView.Location = new System.Drawing.Point(517, 18);
             this.DataGridItemsView.Name = "DataGridItemsView";
             dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
@@ -471,11 +379,6 @@
             this.DataGridItemsView.RowTemplate.Height = 28;
             this.DataGridItemsView.Size = new System.Drawing.Size(240, 150);
             this.DataGridItemsView.TabIndex = 6;
-            // 
-            // ColumnDataGridItemsViewId
-            // 
-            this.ColumnDataGridItemsViewId.HeaderText = "Id";
-            this.ColumnDataGridItemsViewId.Name = "ColumnDataGridItemsViewId";
             // 
             // DataGridItemsCoastSelector
             // 
@@ -493,25 +396,6 @@
             this.DataGridItemsCoastSelector.RowsDefaultCellStyle = dataGridViewCellStyle6;
             this.DataGridItemsCoastSelector.Size = new System.Drawing.Size(348, 150);
             this.DataGridItemsCoastSelector.TabIndex = 3;
-            // 
-            // ColumnItemsCoastSelectorName
-            // 
-            this.ColumnItemsCoastSelectorName.HeaderText = "Name";
-            this.ColumnItemsCoastSelectorName.Name = "ColumnItemsCoastSelectorName";
-            // 
-            // ColumnItemsSelectorColorFrom
-            // 
-            this.ColumnItemsSelectorColorFrom.HeaderText = "Color From";
-            this.ColumnItemsSelectorColorFrom.Name = "ColumnItemsSelectorColorFrom";
-            this.ColumnItemsSelectorColorFrom.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.ColumnItemsSelectorColorFrom.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            // 
-            // ColumnItemsSelectorColorTo
-            // 
-            this.ColumnItemsSelectorColorTo.HeaderText = "ColorTo";
-            this.ColumnItemsSelectorColorTo.Name = "ColumnItemsSelectorColorTo";
-            this.ColumnItemsSelectorColorTo.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.ColumnItemsSelectorColorTo.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             // 
             // comboBox2
             // 
@@ -566,8 +450,6 @@
             // dataGridItemsSmoothItems
             // 
             this.dataGridItemsSmoothItems.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridItemsSmoothItems.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.dataGridViewTextBoxColumn1});
             this.dataGridItemsSmoothItems.Location = new System.Drawing.Point(517, 18);
             this.dataGridItemsSmoothItems.Name = "dataGridItemsSmoothItems";
             dataGridViewCellStyle7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
@@ -578,11 +460,6 @@
             this.dataGridItemsSmoothItems.RowTemplate.Height = 28;
             this.dataGridItemsSmoothItems.Size = new System.Drawing.Size(240, 150);
             this.dataGridItemsSmoothItems.TabIndex = 12;
-            // 
-            // dataGridViewTextBoxColumn1
-            // 
-            this.dataGridViewTextBoxColumn1.HeaderText = "Id";
-            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
             // 
             // dataGridSmoothItems
             // 
@@ -653,8 +530,6 @@
             // dataGridTextureIds
             // 
             this.dataGridTextureIds.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridTextureIds.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.ColumndataGridTextureIdsId});
             this.dataGridTextureIds.Location = new System.Drawing.Point(467, 28);
             this.dataGridTextureIds.Name = "dataGridTextureIds";
             dataGridViewCellStyle9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
@@ -665,11 +540,6 @@
             this.dataGridTextureIds.RowTemplate.Height = 28;
             this.dataGridTextureIds.Size = new System.Drawing.Size(240, 150);
             this.dataGridTextureIds.TabIndex = 1;
-            // 
-            // ColumndataGridTextureIdsId
-            // 
-            this.ColumndataGridTextureIdsId.HeaderText = "Id";
-            this.ColumndataGridTextureIdsId.Name = "ColumndataGridTextureIdsId";
             // 
             // dataGridTexturesList
             // 
@@ -742,8 +612,6 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.dataGridViewTextBoxColumn2});
             this.dataGridView1.Location = new System.Drawing.Point(517, 26);
             this.dataGridView1.Name = "dataGridView1";
             dataGridViewCellStyle11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
@@ -754,11 +622,6 @@
             this.dataGridView1.RowTemplate.Height = 28;
             this.dataGridView1.Size = new System.Drawing.Size(240, 150);
             this.dataGridView1.TabIndex = 18;
-            // 
-            // dataGridViewTextBoxColumn2
-            // 
-            this.dataGridViewTextBoxColumn2.HeaderText = "Id";
-            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
             // 
             // dataGridTextureSmooth
             // 
@@ -811,18 +674,11 @@
             // dataGridView3
             // 
             this.dataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView3.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.dataGridViewTextBoxColumn4});
             this.dataGridView3.Location = new System.Drawing.Point(515, 23);
             this.dataGridView3.Name = "dataGridView3";
             this.dataGridView3.RowTemplate.Height = 28;
             this.dataGridView3.Size = new System.Drawing.Size(240, 150);
             this.dataGridView3.TabIndex = 22;
-            // 
-            // dataGridViewTextBoxColumn4
-            // 
-            this.dataGridViewTextBoxColumn4.HeaderText = "Id";
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
             // 
             // dataGridCliffsList
             // 
@@ -844,6 +700,87 @@
             this.comboBox10.Size = new System.Drawing.Size(149, 28);
             this.comboBox10.TabIndex = 20;
             // 
+            // buttonScriptDirectory
+            // 
+            this.buttonScriptDirectory.Location = new System.Drawing.Point(10, 15);
+            this.buttonScriptDirectory.Name = "buttonScriptDirectory";
+            this.buttonScriptDirectory.Size = new System.Drawing.Size(188, 29);
+            this.buttonScriptDirectory.TabIndex = 3;
+            this.buttonScriptDirectory.Text = "Load Script Directory";
+            this.buttonScriptDirectory.UseVisualStyleBackColor = true;
+            this.buttonScriptDirectory.Click += new System.EventHandler(this.buttonScriptDirectory_Click_1);
+            // 
+            // buttonBinFile
+            // 
+            this.buttonBinFile.Location = new System.Drawing.Point(204, 15);
+            this.buttonBinFile.Name = "buttonBinFile";
+            this.buttonBinFile.Size = new System.Drawing.Size(165, 29);
+            this.buttonBinFile.TabIndex = 4;
+            this.buttonBinFile.Text = "Load Bin File";
+            this.buttonBinFile.UseVisualStyleBackColor = true;
+            // 
+            // buttonCreateMap
+            // 
+            this.buttonCreateMap.Location = new System.Drawing.Point(375, 15);
+            this.buttonCreateMap.Name = "buttonCreateMap";
+            this.buttonCreateMap.Size = new System.Drawing.Size(162, 29);
+            this.buttonCreateMap.TabIndex = 5;
+            this.buttonCreateMap.Text = "Create Map";
+            this.buttonCreateMap.UseVisualStyleBackColor = true;
+            // 
+            // ColumndataGridColorAreaName
+            // 
+            this.ColumndataGridColorAreaName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.ColumndataGridColorAreaName.HeaderText = "Name";
+            this.ColumndataGridColorAreaName.Name = "ColumndataGridColorAreaName";
+            this.ColumndataGridColorAreaName.Width = 76;
+            // 
+            // ColumndataGridColorAreaColor
+            // 
+            this.ColumndataGridColorAreaColor.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.ColumndataGridColorAreaColor.HeaderText = "Color";
+            this.ColumndataGridColorAreaColor.Name = "ColumndataGridColorAreaColor";
+            this.ColumndataGridColorAreaColor.ReadOnly = true;
+            this.ColumndataGridColorAreaColor.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.ColumndataGridColorAreaColor.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.ColumndataGridColorAreaColor.Width = 52;
+            // 
+            // ColumndataGridColorAreaLow
+            // 
+            this.ColumndataGridColorAreaLow.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.ColumndataGridColorAreaLow.HeaderText = "Min Z";
+            this.ColumndataGridColorAreaLow.Name = "ColumndataGridColorAreaLow";
+            this.ColumndataGridColorAreaLow.Width = 73;
+            // 
+            // ColumndataGridColorAreaHight
+            // 
+            this.ColumndataGridColorAreaHight.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.ColumndataGridColorAreaHight.HeaderText = "Max Z";
+            this.ColumndataGridColorAreaHight.Name = "ColumndataGridColorAreaHight";
+            this.ColumndataGridColorAreaHight.Width = 77;
+            // 
+            // ColumndataGridMountainsName
+            // 
+            this.ColumndataGridMountainsName.HeaderText = "Name";
+            this.ColumndataGridMountainsName.Name = "ColumndataGridMountainsName";
+            // 
+            // ColumndataGridMountainsColor
+            // 
+            this.ColumndataGridMountainsColor.HeaderText = "Color";
+            this.ColumndataGridMountainsColor.Name = "ColumndataGridMountainsColor";
+            this.ColumndataGridMountainsColor.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.ColumndataGridMountainsColor.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            // 
+            // ColumndataGridMountainsLow
+            // 
+            this.ColumndataGridMountainsLow.HeaderText = "Min Z";
+            this.ColumndataGridMountainsLow.Name = "ColumndataGridMountainsLow";
+            // 
+            // ColumndataGridMountainsHight
+            // 
+            this.ColumndataGridMountainsHight.HeaderText = "Max Z";
+            this.ColumndataGridMountainsHight.Name = "ColumndataGridMountainsHight";
+            // 
             // ColumndataGridCliffsListName
             // 
             this.ColumndataGridCliffsListName.HeaderText = "Name";
@@ -854,14 +791,12 @@
             this.ColumndataGridCliffsListColorFrom.HeaderText = "Color From";
             this.ColumndataGridCliffsListColorFrom.Name = "ColumndataGridCliffsListColorFrom";
             this.ColumndataGridCliffsListColorFrom.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.ColumndataGridCliffsListColorFrom.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             // 
             // ColumndataGridCliffsListColorTo
             // 
             this.ColumndataGridCliffsListColorTo.HeaderText = "ColorTo";
             this.ColumndataGridCliffsListColorTo.Name = "ColumndataGridCliffsListColorTo";
             this.ColumndataGridCliffsListColorTo.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.ColumndataGridCliffsListColorTo.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             // 
             // ColumndataGridTextureSmoothName
             // 
@@ -873,22 +808,72 @@
             this.ColumndataGridTextureSmoothColorFrom.HeaderText = "Color From";
             this.ColumndataGridTextureSmoothColorFrom.Name = "ColumndataGridTextureSmoothColorFrom";
             this.ColumndataGridTextureSmoothColorFrom.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.ColumndataGridTextureSmoothColorFrom.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             // 
             // ColumndataGridTextureSmoothColorTo
             // 
             this.ColumndataGridTextureSmoothColorTo.HeaderText = "ColorTo";
             this.ColumndataGridTextureSmoothColorTo.Name = "ColumndataGridTextureSmoothColorTo";
             this.ColumndataGridTextureSmoothColorTo.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.ColumndataGridTextureSmoothColorTo.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            // 
+            // ColumnItemsCoastSelectorName
+            // 
+            this.ColumnItemsCoastSelectorName.HeaderText = "Name";
+            this.ColumnItemsCoastSelectorName.Name = "ColumnItemsCoastSelectorName";
+            // 
+            // ColumnItemsSelectorColorFrom
+            // 
+            this.ColumnItemsSelectorColorFrom.HeaderText = "Color From";
+            this.ColumnItemsSelectorColorFrom.Name = "ColumnItemsSelectorColorFrom";
+            this.ColumnItemsSelectorColorFrom.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            // 
+            // ColumnItemsSelectorColorTo
+            // 
+            this.ColumnItemsSelectorColorTo.HeaderText = "ColorTo";
+            this.ColumnItemsSelectorColorTo.Name = "ColumnItemsSelectorColorTo";
+            this.ColumnItemsSelectorColorTo.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            // 
+            // ColumndataGridColorCoastName
+            // 
+            this.ColumndataGridColorCoastName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.ColumndataGridColorCoastName.HeaderText = "Name";
+            this.ColumndataGridColorCoastName.Name = "ColumndataGridColorCoastName";
+            this.ColumndataGridColorCoastName.Width = 76;
+            // 
+            // ColumndataGridColorCoastColor
+            // 
+            this.ColumndataGridColorCoastColor.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.ColumndataGridColorCoastColor.HeaderText = "Color";
+            this.ColumndataGridColorCoastColor.Name = "ColumndataGridColorCoastColor";
+            this.ColumndataGridColorCoastColor.ReadOnly = true;
+            this.ColumndataGridColorCoastColor.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.ColumndataGridColorCoastColor.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.ColumndataGridColorCoastColor.Width = 52;
+            // 
+            // ColumndataGridColorCoastMinZ
+            // 
+            this.ColumndataGridColorCoastMinZ.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.ColumndataGridColorCoastMinZ.HeaderText = "Min Z";
+            this.ColumndataGridColorCoastMinZ.Name = "ColumndataGridColorCoastMinZ";
+            this.ColumndataGridColorCoastMinZ.Width = 73;
+            // 
+            // ColumndataGridColorCoastMaxZ
+            // 
+            this.ColumndataGridColorCoastMaxZ.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.ColumndataGridColorCoastMaxZ.HeaderText = "Max Z";
+            this.ColumndataGridColorCoastMaxZ.Name = "ColumndataGridColorCoastMaxZ";
+            this.ColumndataGridColorCoastMaxZ.Width = 77;
             // 
             // MapMakerControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.buttonCreateMap);
+            this.Controls.Add(this.buttonBinFile);
+            this.Controls.Add(this.buttonScriptDirectory);
             this.Controls.Add(this.TabControlDataHandler);
             this.Name = "MapMakerControl";
             this.Size = new System.Drawing.Size(1011, 603);
+            this.SizeChanged += new System.EventHandler(this.MapMakerControl_SizeChanged);
             this.TabControlDataHandler.ResumeLayout(false);
             this.TabPageColorArea.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridColorCoast)).EndInit();
@@ -927,24 +912,9 @@
         protected System.Windows.Forms.TabPage TabPageColorArea;
         private System.Windows.Forms.Button ButtonACO;
         protected System.Windows.Forms.DataGridView dataGridColorCoast;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorCoastName;
-        private System.Windows.Forms.DataGridViewImageColumn ColumndataGridColorCoastColor;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorCoastMinZ;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorCoastMaxZ;
-        protected System.Windows.Forms.DataGridView dataGridColorArea;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorAreaName;
-        private System.Windows.Forms.DataGridViewImageColumn ColumndataGridColorAreaColor;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorAreaLow;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorAreaHight;
         protected System.Windows.Forms.TabPage TabColorMountains;
         private System.Windows.Forms.DataGridView dataGridMountainsCircles;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumnMinZ;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumnMaxZ;
         protected System.Windows.Forms.DataGridView dataGridMountains;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridMountainsName;
-        private System.Windows.Forms.DataGridViewImageColumn ColumndataGridMountainsColor;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridMountainsLow;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridMountainsHight;
         protected System.Windows.Forms.TabPage TabItems;
         private System.Windows.Forms.TreeView treeViewItems;
         protected System.Windows.Forms.TabPage TabItemsCoast;
@@ -952,18 +922,13 @@
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.PictureBox pictureBoxItemsCoast;
         private System.Windows.Forms.DataGridView DataGridItemsView;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumnDataGridItemsViewId;
         private System.Windows.Forms.DataGridView DataGridItemsCoastSelector;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumnItemsCoastSelectorName;
-        private System.Windows.Forms.DataGridViewImageColumn ColumnItemsSelectorColorFrom;
-        private System.Windows.Forms.DataGridViewImageColumn ColumnItemsSelectorColorTo;
         private System.Windows.Forms.ComboBox comboBox2;
         protected System.Windows.Forms.TabPage TabItemsSmooth;
         private System.Windows.Forms.ComboBox comboBox4;
         private System.Windows.Forms.ComboBox comboBox5;
         private System.Windows.Forms.PictureBox PictureBoxItemsSmooth;
         private System.Windows.Forms.DataGridView dataGridItemsSmoothItems;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
         private System.Windows.Forms.DataGridView dataGridSmoothItems;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridSmoothItemsName;
         private System.Windows.Forms.DataGridViewImageColumn ColumndataGridSmoothItemsColorFrom;
@@ -972,7 +937,6 @@
         protected System.Windows.Forms.TabPage TabTextures;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.DataGridView dataGridTextureIds;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridTextureIdsId;
         private System.Windows.Forms.DataGridView dataGridTexturesList;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridTexturesListName;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridTexturesListId;
@@ -981,20 +945,37 @@
         private System.Windows.Forms.ComboBox comboBox8;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
         private System.Windows.Forms.DataGridView dataGridTextureSmooth;
         private System.Windows.Forms.ComboBox comboBox9;
         protected System.Windows.Forms.TabPage TabTextureCliff;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.DataGridView dataGridView3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
         private System.Windows.Forms.DataGridView dataGridCliffsList;
         private System.Windows.Forms.ComboBox comboBox10;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridCliffsListName;
-        private System.Windows.Forms.DataGridViewImageColumn ColumndataGridCliffsListColorFrom;
-        private System.Windows.Forms.DataGridViewImageColumn ColumndataGridCliffsListColorTo;
+        private System.Windows.Forms.Button buttonScriptDirectory;
+        private System.Windows.Forms.Button buttonBinFile;
+        private System.Windows.Forms.Button buttonCreateMap;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorAreaName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorAreaColor;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorAreaLow;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorAreaHight;
+        protected System.Windows.Forms.DataGridView dataGridColorArea;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridMountainsName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridMountainsColor;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridMountainsLow;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridMountainsHight;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridTextureSmoothName;
-        private System.Windows.Forms.DataGridViewImageColumn ColumndataGridTextureSmoothColorFrom;
-        private System.Windows.Forms.DataGridViewImageColumn ColumndataGridTextureSmoothColorTo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridTextureSmoothColorFrom;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridTextureSmoothColorTo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridCliffsListName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridCliffsListColorFrom;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridCliffsListColorTo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumnItemsCoastSelectorName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumnItemsSelectorColorFrom;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumnItemsSelectorColorTo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorCoastName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorCoastColor;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorCoastMinZ;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumndataGridColorCoastMaxZ;
     }
 }

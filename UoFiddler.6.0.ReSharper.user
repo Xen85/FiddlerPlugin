@@ -1,52 +1,68 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Art.cs" caret="534" fromTop="13" />
       <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.Designer.cs" caret="0" fromTop="0" />
-      <File id="43393FEB-36CF-41B7-8ADA-A581D498FF40/f:MassImportPlugin.cs" caret="821" fromTop="15" />
       <File id="43393FEB-36CF-41B7-8ADA-A581D498FF40/f:MassImport.cs" caret="10973" fromTop="12" />
       <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:Events.cs" caret="1738" fromTop="15" />
-      <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:UoFiddler.cs" caret="21305" fromTop="17" />
       <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:UoFiddler.Designer.cs" caret="3202" fromTop="13" />
       <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:CollapsibleSplitter.cs" caret="31107" fromTop="0" />
       <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:Map.Designer.cs" caret="44363" fromTop="685" />
       <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:Map.cs" caret="17033" fromTop="97" />
       <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.cs" caret="5908" fromTop="12" />
       <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditorComponentList.cs" caret="17035" fromTop="94" />
-      <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:Program.cs" caret="927" fromTop="13" />
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Multis.cs" caret="20755" fromTop="13" />
       <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:TileMatrix.cs" caret="11021" fromTop="107" />
       <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Map.cs" caret="21732" fromTop="11" />
       <File id="AF2D75B8-C71A-4582-AADF-B8CD9789427C/f:SendItem.cs" caret="0" fromTop="0" />
+      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Multis.cs" caret="20755" fromTop="13" />
+      <File id="1F84EDD1-C407-410A-BD9C-36E846BFA675/f:ComparePlugin.cs" caret="1487" fromTop="3" />
+      <File id="4FC1D5F4-661F-48DC-B397-4CDCB7D61ABE/d:Text/f:UnicodeRange.cs" caret="0" fromTop="0" />
+      <File id="4FC1D5F4-661F-48DC-B397-4CDCB7D61ABE/d:Checksum/f:Adler32.cs" caret="0" fromTop="0" />
+      <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:Plugin.cs" caret="1720" fromTop="15" />
+      <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:Host.cs" caret="5296" fromTop="0" />
+      <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:ManagePlugins.cs" caret="774" fromTop="8" />
+      <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:UoFiddler.cs" caret="16404" fromTop="17" />
       <File id="E22921FF-9EC8-4DEB-A4C1-CE67315F465E/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="43393FEB-36CF-41B7-8ADA-A581D498FF40/f:MassImportPlugin.cs" caret="588" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/d:Properties/f:AssemblyInfo.cs" caret="296" fromTop="6" />
+      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditorPlugin.cs" caret="3008" fromTop="17" />
+      <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:Program.cs" caret="718" fromTop="14" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.Designer.cs" caret="0" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:PluginPresentation.cs" caret="0" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1677" fromTop="53" />
+      <File id="2F25DC15-7C8B-4C57-8C31-E33DEE517E7B/f:MakeMapSDK.cs" caret="0" fromTop="0" />
+      <File id="2F25DC15-7C8B-4C57-8C31-E33DEE517E7B/d:MapMaking/f:MapMaker.cs" caret="53583" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Art.cs" caret="60733" fromTop="13" />
-      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.Designer.cs" caret="0" fromTop="0" />
-      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.cs" caret="45696" fromTop="4" />
-      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.cs" caret="52168" fromTop="23" />
-      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.cs" caret="48885" fromTop="12" />
-      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.cs" caret="54066" fromTop="13" />
-      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.cs" caret="41518" fromTop="13" />
-      <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:UoFiddler.cs" caret="23026" fromTop="14" />
-      <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:Program.cs" caret="6587" fromTop="0" />
-      <File id="43393FEB-36CF-41B7-8ADA-A581D498FF40/f:MassImportPlugin.cs" caret="5814" fromTop="15" />
-      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.cs" caret="0" fromTop="0" />
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Multis.cs" caret="27826" fromTop="15" />
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Multis.cs" caret="16151" fromTop="14" />
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Multis.cs" caret="16305" fromTop="20" />
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Multis.cs" caret="30168" fromTop="9" />
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Multis.cs" caret="30277" fromTop="24" />
-      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditor.cs" caret="36585" fromTop="4" />
-      <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:Map.cs" caret="57553" fromTop="1" />
-      <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:UoFiddler.Designer.cs" caret="57548" fromTop="0" />
-      <File id="693F2BBC-7856-4751-9FAD-B06FABAAEE53/f:UoFiddler.cs" caret="21305" fromTop="17" />
-      <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:Map.cs" caret="17033" fromTop="2" />
-      <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:Map.cs" caret="43297" fromTop="7" />
-      <File id="BBF3C337-3D0E-484D-8C59-BA8296C5897C/f:Map.Designer.cs" caret="44363" fromTop="13" />
-      <File id="ACDF6427-85CF-4A38-AD97-75103EE8026E/f:MultiEditorComponentList.cs" caret="32321" fromTop="5" />
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Multis.cs" caret="21336" fromTop="14" />
-      <File id="E08CFBE4-E013-44EE-8829-426D05BC083F/f:Map.cs" caret="35077" fromTop="7" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="515" fromTop="11" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="531" fromTop="5" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1222" fromTop="15" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1244" fromTop="17" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="4409" fromTop="17" />
+      <File id="2F25DC15-7C8B-4C57-8C31-E33DEE517E7B/f:MakeMapSDK.cs" caret="20776" fromTop="2" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="309" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1244" fromTop="21" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="634" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.Designer.cs" caret="56665" fromTop="25" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.Designer.cs" caret="56665" fromTop="29" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.Designer.cs" caret="56665" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.Designer.cs" caret="56665" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.Designer.cs" caret="56665" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.Designer.cs" caret="56665" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.Designer.cs" caret="56665" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.Designer.cs" caret="56363" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:PluginPresentation.cs" caret="0" fromTop="0" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1337" fromTop="14" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1244" fromTop="6" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="4198" fromTop="15" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="4365" fromTop="17" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="4409" fromTop="27" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1648" fromTop="22" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1648" fromTop="17" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1648" fromTop="11" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1648" fromTop="4" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1734" fromTop="6" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="4024" fromTop="29" />
+      <File id="39B1EE29-C707-4F66-BD65-055E44D96CCF/f:MapMakerControl.cs" caret="1677" fromTop="13" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -64,6 +80,7 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
@@ -76,15 +93,290 @@
       <Item value="catch" priority="31" />
       <Item value="Exception`0" priority="31" />
       <Item value="m_SortedTiles" priority="31" />
-      <Item value="null" priority="31" />
-      <Item value="e" priority="64" />
+      <Item value="null" priority="95" />
+      <Item value="e" priority="384" />
       <Item value="split" priority="31" />
       <Item value="header" priority="31" />
       <Item value="int" priority="31" />
       <Item value="a" priority="31" />
+      <Item value="FiddlerPlugin" priority="95" />
+      <Item value="return" priority="159" />
+      <Item value="public" priority="191" />
+      <Item value="GetHashCode`0" priority="31" />
+      <Item value="private" priority="319" />
+      <Item value="string" priority="159" />
+      <Item value="_name" priority="31" />
+      <Item value="_description" priority="31" />
+      <Item value="_ver" priority="63" />
+      <Item value="SDK" priority="63" />
+      <Item value="new" priority="447" />
+      <Item value="MakeMapSDK" priority="28" />
+      <Item value="override" priority="31" />
+      <Item value="MapMakerFiddler" priority="181" />
+      <Item value="MapMakerForm`0" priority="26" />
+      <Item value="MapMakerForm" priority="28" />
+      <Item value="TabAlignment`0" priority="31" />
+      <Item value="TabPage" priority="28" />
+      <Item value="page" priority="191" />
+      <Item value="_mapMakerForm" priority="127" />
+      <Item value="Fill" priority="50" />
+      <Item value="MapMakerControl`0" priority="26" />
+      <Item value="MapControl" priority="95" />
+      <Item value="MapMakerControl" priority="28" />
+      <Item value="PluginInterface" priority="159" />
+      <Item value="Events`0" priority="26" />
+      <Item value="IPlugin`0" priority="26" />
+      <Item value="DataGrid`0" priority="255" />
+      <Item value="dataGridColorArea" priority="725" />
+      <Item value="dataGridColorCoast" priority="63" />
+      <Item value="dataGridMountains" priority="181" />
+      <Item value="PluginPresentationMapMaker`0" priority="58" />
+      <Item value="DataGridItemsView" priority="63" />
+      <Item value="dataGridItemsSmoothItems" priority="31" />
+      <Item value="DataGridItemsCoastSelector" priority="90" />
+      <Item value="DataGridTextBox`0" priority="31" />
+      <Item value="dataGridTexturesList" priority="127" />
+      <Item value="InitializeFactories`0" priority="31" />
+      <Item value="directory" priority="31" />
+      <Item value="IndexOutOfRangeException`0" priority="31" />
+      <Item value="var" priority="351" />
+      <Item value="indexrow" priority="127" />
+      <Item value="switch" priority="31" />
+      <Item value="indexcolumg" priority="26" />
+      <Item value="case" priority="127" />
+      <Item value="_skd" priority="31" />
+      <Item value="_sdk" priority="1118" />
+      <Item value="indexcolum" priority="31" />
+      <Item value="break" priority="154" />
+      <Item value="if" priority="255" />
+      <Item value="comboBox1" priority="31" />
+      <Item value="dataGridSmoothItems" priority="95" />
+      <Item value="dataGridCliff" priority="26" />
+      <Item value="dataGridTextureSmooth" priority="31" />
+      <Item value="Area" priority="87" />
+      <Item value="base" priority="31" />
+      <Item value="foreach" priority="127" />
+      <Item value="rowindex" priority="31" />
+      <Item value="dataGridCliffsList" priority="58" />
+      <Item value="FolderBrowserDialog`0" priority="31" />
+      <Item value="FolderBrowserDialog" priority="28" />
+      <Item value="fb" priority="95" />
+      <Item value="risp" priority="63" />
+      <Item value="OK" priority="16" />
+      <Item value="void" priority="63" />
+      <Item value="InitDatagrids`0" priority="63" />
+      <Item value="sender" priority="31" />
+      <Item value="area" priority="31" />
+      <Item value="DataGridViewRow" priority="86" />
+      <Item value="row" priority="31" />
+      <Item value="col" priority="95" />
+      <Item value="DataGridTextBoxColumn`0" priority="95" />
+      <Item value="Text" priority="31" />
+      <Item value="for" priority="63" />
+      <Item value="i" priority="63" />
+      <Item value="j" priority="31" />
+      <Item value="is" priority="63" />
+      <Item value="DataGridColumnStyle`0" priority="31" />
+      <Item value="Margin" priority="31" />
+      <Item value="column" priority="63" />
+      <Item value="ColumndataGridColorAreaName" priority="191" />
+      <Item value="t" priority="31" />
+      <Item value="Binding" priority="86" />
+      <Item value="false" priority="191" />
+      <Item value="DataSourceUpdateMode`0" priority="63" />
+      <Item value="ColumndataGridColorAreaLow" priority="117" />
+      <Item value="true" priority="63" />
+      <Item value="ColumndataGridColorAreaColor" priority="63" />
+      <Item value="Color`0" priority="31" />
+      <Item value="DataColumn`0" priority="31" />
+      <Item value="ColumndataGridColorAreaHight" priority="31" />
+      <Item value="FillErrorEventArgs`0" priority="31" />
+      <Item value="this" priority="63" />
+      <Item value="Parent" priority="63" />
+      <Item value="Width" priority="31" />
+      <Item value="TabControlDataHandler" priority="63" />
+      <Item value="Right" priority="16" />
+      <Item value="Bottom" priority="16" />
+      <Item value="ColumndataGridColorCoastColor" priority="26" />
+      <Item value="ColumndataGridColorCoastName" priority="26" />
+      <Item value="ColumndataGridColorCoastMinZ" priority="53" />
+      <Item value="ColumndataGridMountainsColor" priority="26" />
+      <Item value="ColumndataGridMountainsName" priority="26" />
+      <Item value="ColumndataGridMountainsLow" priority="53" />
+      <Item value="ColumndataGridMountainsHight" priority="26" />
+      <Item value="ColumnItemsCoastSelectorName" priority="63" />
+      <Item value="Name" priority="31" />
+      <Item value="ColumnDataGridItemsViewId" priority="85" />
+      <Item value="ColumndataGridSmoothItemsName" priority="26" />
+      <Item value="ColumndataGridSmoothItemsColorFrom" priority="26" />
+      <Item value="ColumndataGridSmoothItemsColorTo" priority="31" />
+      <Item value="ColumndataGridTextureIdsId" priority="31" />
+      <Item value="ColumndataGridTextureSmoothColorFrom" priority="31" />
+      <Item value="ColumndataGridTextureSmoothColorTo" priority="31" />
+      <Item value="ColumndataGridTextureSmoothName" priority="31" />
+      <Item value="ColumndataGridCliffsListColorFrom" priority="31" />
+      <Item value="ColumndataGridCliffsListColorTo" priority="31" />
+      <Item value="ColumndataGridCliffsListName" priority="26" />
+      <Item value="DataGridBinding`0" priority="31" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Exception">
       <Item value="Message" priority="26" />
+      <Item value="Data" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabPage">
+      <Item value="Name" priority="26" />
+      <Item value="Controls" priority="80" />
+      <Item value="Tag" priority="26" />
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapMakerFiddler.MapMakerForm">
+      <Item value="Dock" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapMakerFiddler.MapMakerControl">
+      <Item value="Dock" priority="53" />
+      <Item value="Size" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FiddlerPlugin.PluginPresentationMapMaker">
+      <Item value="SDK" priority="215" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="647" />
+      <Item value="Rows" priority="161" />
+      <Item value="BackColor" priority="26" />
+      <Item value="Columns" priority="161" />
+      <Item value="DataMember" priority="26" />
+      <Item value="DataBindings" priority="107" />
+      <Item value="AutoGenerateColumns" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.MakeMapSDK">
+      <Item value="ColorArea" priority="539" />
+      <Item value="ColorCoast" priority="76" />
+      <Item value="ColorMountains" priority="80" />
+      <Item value="Items" priority="76" />
+      <Item value="Smooths" priority="80" />
+      <Item value="ItemsCoasts" priority="53" />
+      <Item value="TextureArea" priority="80" />
+      <Item value="Cliffs" priority="53" />
+      <Item value="FactoryTextureSmooth" priority="26" />
+      <Item value="SmoothTextures" priority="26" />
+      <Item value="InitializeFactories`0" priority="26" />
+      <Item value="Populate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.Elements.ColorArea.ColorAreas">
+      <Item value="List" priority="539" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.Elements.Items.ItemsAll">
+      <Item value="List" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.Elements.ColorArea.MountainsAreas">
+      <Item value="List" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.Elements.Items.SmoothsAll">
+      <Item value="List" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.Elements.Items.CoastsAll">
+      <Item value="List" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.Elements.Textures.TextureArea">
+      <Item value="List" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCellEventArgs">
+      <Item value="RowIndex" priority="26" />
+      <Item value="ColumnIndex" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.Elements.ColorArea.Area.Area">
+      <Item value="Name" priority="134" />
+      <Item value="Color" priority="26" />
+      <Item value="Low" priority="26" />
+      <Item value="Hight" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="AccessibilityObject" priority="26" />
+      <Item value="Value" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="53" />
+      <Item value="Add`0" priority="26" />
+      <Item value="Last`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.Elements.Textures.Cliffs">
+      <Item value="List" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenUO.MapMaker.Elements.Textures.SmoothTextures">
+      <Item value="List" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="GetLastRow`0" priority="53" />
+      <Item value="Add`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowsAddedEventArgs">
+      <Item value="RowCount" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRow">
+      <Item value="Cells" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="Container" priority="26" />
+      <Item value="ShowDialog`0" priority="26" />
+      <Item value="SelectedPath" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewDataErrorEventArgs">
+      <Item value="ColumnIndex" priority="53" />
+      <Item value="Exception" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IDictionary">
+      <Item value="Values" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumnCollection">
+      <Item value="GetFirstColumn`0" priority="26" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridTextBoxColumn">
+      <Item value="TextBox" priority="26" />
+      <Item value="HeaderText" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ControlBindingsCollection">
+      <Item value="Add`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataSourceUpdateMode">
+      <Item value="OnPropertyChanged" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewTextBoxColumn">
+      <Item value="DisplayIndex" priority="26" />
+      <Item value="ValueType" priority="26" />
+      <Item value="DataPropertyName" priority="404" />
+      <Item value="Name" priority="26" />
+      <Item value="DataGridView" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewImageColumn">
+      <Item value="DataGridView" priority="26" />
+      <Item value="DataPropertyName" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Height" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Height" priority="26" />
+      <Item value="Width" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl">
+      <Item value="Dock" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DockStyle">
+      <Item value="Fill" priority="26" />
+      <Item value="Bottom" priority="26" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

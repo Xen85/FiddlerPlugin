@@ -48,12 +48,6 @@
     <Compile Include="MapMakerControl.Designer.cs">
       <DependentUpon>MapMakerControl.cs</DependentUpon>
     </Compile>
-    <Compile Include="MapMakerForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MapMakerForm.Designer.cs">
-      <DependentUpon>MapMakerForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="PluginPresentation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
@@ -79,9 +73,6 @@
   <ItemGroup>
     <EmbeddedResource Include="MapMakerControl.resx">
       <DependentUpon>MapMakerControl.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MapMakerForm.resx">
-      <DependentUpon>MapMakerForm.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
